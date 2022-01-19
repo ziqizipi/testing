@@ -1,0 +1,20 @@
+.intro {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 60px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
